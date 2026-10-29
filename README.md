@@ -1,0 +1,1 @@
+# SlovoDna-Data
